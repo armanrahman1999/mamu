@@ -23,6 +23,7 @@ import { Button } from 'components/ui/button';
  * - Accessible design with proper ARIA attributes
  * - High z-index to ensure visibility above other UI elements
  * - Responsive layout with maximum width
+ * - theme-aware styling for light and dark modes
  *
  * Props:
  * @param {boolean} open - Controls whether the modal is displayed
